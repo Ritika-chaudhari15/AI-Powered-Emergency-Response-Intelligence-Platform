@@ -1,0 +1,161 @@
+WarehouseName,Resource,RemainingQuantity
+Ahmedabad Warehouse,Food Packets,0
+Ahmedabad Warehouse,Water Bottles,0
+Ahmedabad Warehouse,Medical Kits,0
+Ahmedabad Warehouse,Blankets,0
+Ahmedabad Warehouse,Temporary Tents,0
+Ahmedabad Warehouse,Rescue Teams,0
+Ahmedabad Warehouse,Ambulances,0
+Ahmedabad Warehouse,Trucks,0
+Ahmedabad Warehouse,Boats,80
+Ahmedabad Warehouse,Helicopters,0
+Bengaluru Warehouse,Food Packets,2000000
+Bengaluru Warehouse,Water Bottles,3000000
+Bengaluru Warehouse,Medical Kits,400000
+Bengaluru Warehouse,Blankets,600000
+Bengaluru Warehouse,Temporary Tents,80000
+Bengaluru Warehouse,Rescue Teams,300
+Bengaluru Warehouse,Ambulances,300
+Bengaluru Warehouse,Trucks,300
+Bengaluru Warehouse,Boats,80
+Bengaluru Warehouse,Helicopters,25
+Bhopal Warehouse,Food Packets,799868
+Bhopal Warehouse,Water Bottles,999780
+Bhopal Warehouse,Medical Kits,389798
+Bhopal Warehouse,Blankets,466652
+Bhopal Warehouse,Temporary Tents,53330
+Bhopal Warehouse,Rescue Teams,0
+Bhopal Warehouse,Ambulances,0
+Bhopal Warehouse,Trucks,0
+Bhopal Warehouse,Boats,80
+Bhopal Warehouse,Helicopters,25
+Bhubaneswar Warehouse,Food Packets,0
+Bhubaneswar Warehouse,Water Bottles,0
+Bhubaneswar Warehouse,Medical Kits,359441
+Bhubaneswar Warehouse,Blankets,69836
+Bhubaneswar Warehouse,Temporary Tents,0
+Bhubaneswar Warehouse,Rescue Teams,0
+Bhubaneswar Warehouse,Ambulances,0
+Bhubaneswar Warehouse,Trucks,0
+Bhubaneswar Warehouse,Boats,80
+Bhubaneswar Warehouse,Helicopters,25
+Chandigarh Warehouse,Food Packets,0
+Chandigarh Warehouse,Water Bottles,0
+Chandigarh Warehouse,Medical Kits,0
+Chandigarh Warehouse,Blankets,0
+Chandigarh Warehouse,Temporary Tents,0
+Chandigarh Warehouse,Rescue Teams,0
+Chandigarh Warehouse,Ambulances,0
+Chandigarh Warehouse,Trucks,0
+Chandigarh Warehouse,Boats,80
+Chandigarh Warehouse,Helicopters,17
+Chennai Warehouse,Food Packets,2000000
+Chennai Warehouse,Water Bottles,3000000
+Chennai Warehouse,Medical Kits,400000
+Chennai Warehouse,Blankets,600000
+Chennai Warehouse,Temporary Tents,80000
+Chennai Warehouse,Rescue Teams,300
+Chennai Warehouse,Ambulances,300
+Chennai Warehouse,Trucks,300
+Chennai Warehouse,Boats,80
+Chennai Warehouse,Helicopters,25
+Delhi Central Warehouse,Food Packets,0
+Delhi Central Warehouse,Water Bottles,0
+Delhi Central Warehouse,Medical Kits,0
+Delhi Central Warehouse,Blankets,0
+Delhi Central Warehouse,Temporary Tents,0
+Delhi Central Warehouse,Rescue Teams,0
+Delhi Central Warehouse,Ambulances,0
+Delhi Central Warehouse,Trucks,0
+Delhi Central Warehouse,Boats,80
+Delhi Central Warehouse,Helicopters,0
+Guwahati Warehouse,Food Packets,0
+Guwahati Warehouse,Water Bottles,0
+Guwahati Warehouse,Medical Kits,0
+Guwahati Warehouse,Blankets,0
+Guwahati Warehouse,Temporary Tents,0
+Guwahati Warehouse,Rescue Teams,0
+Guwahati Warehouse,Ambulances,0
+Guwahati Warehouse,Trucks,0
+Guwahati Warehouse,Boats,80
+Guwahati Warehouse,Helicopters,0
+Hyderabad Warehouse,Food Packets,0
+Hyderabad Warehouse,Water Bottles,0
+Hyderabad Warehouse,Medical Kits,302112
+Hyderabad Warehouse,Blankets,0
+Hyderabad Warehouse,Temporary Tents,0
+Hyderabad Warehouse,Rescue Teams,0
+Hyderabad Warehouse,Ambulances,0
+Hyderabad Warehouse,Trucks,0
+Hyderabad Warehouse,Boats,80
+Hyderabad Warehouse,Helicopters,25
+Jaipur Warehouse,Food Packets,0
+Jaipur Warehouse,Water Bottles,0
+Jaipur Warehouse,Medical Kits,96695
+Jaipur Warehouse,Blankets,0
+Jaipur Warehouse,Temporary Tents,0
+Jaipur Warehouse,Rescue Teams,0
+Jaipur Warehouse,Ambulances,0
+Jaipur Warehouse,Trucks,0
+Jaipur Warehouse,Boats,80
+Jaipur Warehouse,Helicopters,25
+Kolkata Warehouse,Food Packets,0
+Kolkata Warehouse,Water Bottles,0
+Kolkata Warehouse,Medical Kits,0
+Kolkata Warehouse,Blankets,0
+Kolkata Warehouse,Temporary Tents,0
+Kolkata Warehouse,Rescue Teams,0
+Kolkata Warehouse,Ambulances,0
+Kolkata Warehouse,Trucks,0
+Kolkata Warehouse,Boats,80
+Kolkata Warehouse,Helicopters,0
+Lucknow Warehouse,Food Packets,0
+Lucknow Warehouse,Water Bottles,0
+Lucknow Warehouse,Medical Kits,269601
+Lucknow Warehouse,Blankets,0
+Lucknow Warehouse,Temporary Tents,0
+Lucknow Warehouse,Rescue Teams,0
+Lucknow Warehouse,Ambulances,0
+Lucknow Warehouse,Trucks,0
+Lucknow Warehouse,Boats,80
+Lucknow Warehouse,Helicopters,0
+Mumbai Warehouse,Food Packets,0
+Mumbai Warehouse,Water Bottles,0
+Mumbai Warehouse,Medical Kits,82104
+Mumbai Warehouse,Blankets,0
+Mumbai Warehouse,Temporary Tents,0
+Mumbai Warehouse,Rescue Teams,0
+Mumbai Warehouse,Ambulances,0
+Mumbai Warehouse,Trucks,0
+Mumbai Warehouse,Boats,80
+Mumbai Warehouse,Helicopters,17
+Port Blair Warehouse,Food Packets,0
+Port Blair Warehouse,Water Bottles,0
+Port Blair Warehouse,Medical Kits,283345
+Port Blair Warehouse,Blankets,0
+Port Blair Warehouse,Temporary Tents,0
+Port Blair Warehouse,Rescue Teams,0
+Port Blair Warehouse,Ambulances,0
+Port Blair Warehouse,Trucks,0
+Port Blair Warehouse,Boats,80
+Port Blair Warehouse,Helicopters,0
+Raipur Warehouse,Food Packets,0
+Raipur Warehouse,Water Bottles,0
+Raipur Warehouse,Medical Kits,258219
+Raipur Warehouse,Blankets,0
+Raipur Warehouse,Temporary Tents,0
+Raipur Warehouse,Rescue Teams,0
+Raipur Warehouse,Ambulances,0
+Raipur Warehouse,Trucks,0
+Raipur Warehouse,Boats,80
+Raipur Warehouse,Helicopters,0
+Srinagar Warehouse,Food Packets,0
+Srinagar Warehouse,Water Bottles,0
+Srinagar Warehouse,Medical Kits,0
+Srinagar Warehouse,Blankets,0
+Srinagar Warehouse,Temporary Tents,0
+Srinagar Warehouse,Rescue Teams,0
+Srinagar Warehouse,Ambulances,0
+Srinagar Warehouse,Trucks,0
+Srinagar Warehouse,Boats,80
+Srinagar Warehouse,Helicopters,0

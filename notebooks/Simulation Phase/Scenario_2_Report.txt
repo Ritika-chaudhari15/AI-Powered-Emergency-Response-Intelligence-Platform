@@ -1,0 +1,91 @@
+
+================================================================================
+SCENARIO 2
+================================================================================
+
+================================================================================
+FINAL DISASTER RESPONSE REPORT : 8320
+================================================================================
+
+DISASTER DETAILS
+------------------------------------------------------------
+Event ID                 : 8320
+Disaster Type            : Flood
+Predicted Severity       : Medium
+Affected Population      : 1,211,010 (12.11 Lakh)
+
+LOCATION
+------------------------------------------------------------
+Latitude                 : 26.0870
+Longitude                : 87.7770
+
+WAREHOUSE
+------------------------------------------------------------
+Assigned Warehouse       : Kolkata Warehouse
+Warehouse State          : West Bengal
+Distance                 : 395.28 km
+
+RESOURCE ALLOCATION
+------------------------------------------------------------
+
+Food Packets
+Required   : 10,899,090 (1.09 Crore)
+Allocated  : 2,000,000 (20.00 Lakh)
+Shortage   : 8,899,090 (88.99 Lakh)
+
+Medical Kits
+Required   : 92,643 (92.64 Thousand)
+Allocated  : 92,643 (92.64 Thousand)
+Shortage   : 0
+
+Water Bottles
+Required   : 18,165,150 (1.82 Crore)
+Allocated  : 3,000,000 (30.00 Lakh)
+Shortage   : 15,165,150 (1.52 Crore)
+
+Blankets
+Required   : 1,211,010 (12.11 Lakh)
+Allocated  : 600,000 (6.00 Lakh)
+Shortage   : 611,010 (6.11 Lakh)
+
+Temporary Tents
+Required   : 242,202 (2.42 Lakh)
+Allocated  : 80,000 (80.00 Thousand)
+Shortage   : 162,202 (1.62 Lakh)
+
+SHELTER
+------------------------------------------------------------
+People Needing Shelter   : 1,211,010 (12.11 Lakh)
+People Sheltered         : 442,023 (4.42 Lakh)
+People Waiting           : 768,987 (7.69 Lakh)
+Shelters Used            : 100
+Status                   : Partially Allocated
+
+TRANSPORT
+------------------------------------------------------------
+Supply Trucks Required   : 5734
+Ambulances Required      : 15138
+Rescue Teams Required    : 4845
+Rescue Buses Required    : 19225
+Helicopters Required     : 152
+Boats Required           : 243
+
+WAREHOUSE AFTER RESPONSE
+------------------------------------------------------------
+Food Packets             0
+Water Bottles            0
+Medical Kits             307,357 (3.07 Lakh)
+Blankets                 0
+Temporary Tents          0
+Rescue Teams             0
+Ambulances               0
+Trucks                   0
+Boats                    0
+Helicopters              0
+
+MISSION SUMMARY
+------------------------------------------------------------
+Inventory Status         : Partial
+Shelter Status           : Partially Allocated
+
+MISSION PARTIALLY SUCCESSFUL

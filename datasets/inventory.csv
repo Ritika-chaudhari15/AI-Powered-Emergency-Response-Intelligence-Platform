@@ -1,0 +1,161 @@
+WarehouseID,WarehouseName,State,Latitude,Longitude,Resource,AvailableQuantity
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Food Packets,2000000
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Water Bottles,3000000
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Medical Kits,400000
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Blankets,600000
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Temporary Tents,80000
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Rescue Teams,300
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Ambulances,300
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Trucks,300
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Boats,80
+WH001,Srinagar Warehouse,Jammu and Kashmir,34.0837,74.7973,Helicopters,25
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Food Packets,2000000
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Water Bottles,3000000
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Medical Kits,400000
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Blankets,600000
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Temporary Tents,80000
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Rescue Teams,300
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Ambulances,300
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Trucks,300
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Boats,80
+WH002,Chandigarh Warehouse,Chandigarh,30.7333,76.7794,Helicopters,25
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Food Packets,2000000
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Water Bottles,3000000
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Medical Kits,400000
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Blankets,600000
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Temporary Tents,80000
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Rescue Teams,300
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Ambulances,300
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Trucks,300
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Boats,80
+WH003,Delhi Central Warehouse,Delhi,28.6139,77.209,Helicopters,25
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Food Packets,2000000
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Water Bottles,3000000
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Medical Kits,400000
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Blankets,600000
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Temporary Tents,80000
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Rescue Teams,300
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Ambulances,300
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Trucks,300
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Boats,80
+WH004,Lucknow Warehouse,Uttar Pradesh,26.8467,80.9462,Helicopters,25
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Food Packets,2000000
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Water Bottles,3000000
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Medical Kits,400000
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Blankets,600000
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Temporary Tents,80000
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Rescue Teams,300
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Ambulances,300
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Trucks,300
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Boats,80
+WH005,Jaipur Warehouse,Rajasthan,26.9124,75.7873,Helicopters,25
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Food Packets,2000000
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Water Bottles,3000000
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Medical Kits,400000
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Blankets,600000
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Temporary Tents,80000
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Rescue Teams,300
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Ambulances,300
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Trucks,300
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Boats,80
+WH006,Ahmedabad Warehouse,Gujarat,23.0225,72.5714,Helicopters,25
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Food Packets,2000000
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Water Bottles,3000000
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Medical Kits,400000
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Blankets,600000
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Temporary Tents,80000
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Rescue Teams,300
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Ambulances,300
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Trucks,300
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Boats,80
+WH007,Mumbai Warehouse,Maharashtra,19.076,72.8777,Helicopters,25
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Food Packets,2000000
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Water Bottles,3000000
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Medical Kits,400000
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Blankets,600000
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Temporary Tents,80000
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Rescue Teams,300
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Ambulances,300
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Trucks,300
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Boats,80
+WH008,Bhopal Warehouse,Madhya Pradesh,23.2599,77.4126,Helicopters,25
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Food Packets,2000000
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Water Bottles,3000000
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Medical Kits,400000
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Blankets,600000
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Temporary Tents,80000
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Rescue Teams,300
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Ambulances,300
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Trucks,300
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Boats,80
+WH009,Raipur Warehouse,Chhattisgarh,21.2514,81.6296,Helicopters,25
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Food Packets,2000000
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Water Bottles,3000000
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Medical Kits,400000
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Blankets,600000
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Temporary Tents,80000
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Rescue Teams,300
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Ambulances,300
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Trucks,300
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Boats,80
+WH010,Bhubaneswar Warehouse,Odisha,20.2961,85.8245,Helicopters,25
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Food Packets,2000000
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Water Bottles,3000000
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Medical Kits,400000
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Blankets,600000
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Temporary Tents,80000
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Rescue Teams,300
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Ambulances,300
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Trucks,300
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Boats,80
+WH011,Kolkata Warehouse,West Bengal,22.5726,88.3639,Helicopters,25
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Food Packets,2000000
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Water Bottles,3000000
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Medical Kits,400000
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Blankets,600000
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Temporary Tents,80000
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Rescue Teams,300
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Ambulances,300
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Trucks,300
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Boats,80
+WH012,Guwahati Warehouse,Assam,26.1445,91.7362,Helicopters,25
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Food Packets,2000000
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Water Bottles,3000000
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Medical Kits,400000
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Blankets,600000
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Temporary Tents,80000
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Rescue Teams,300
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Ambulances,300
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Trucks,300
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Boats,80
+WH013,Hyderabad Warehouse,Telangana,17.385,78.4867,Helicopters,25
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Food Packets,2000000
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Water Bottles,3000000
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Medical Kits,400000
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Blankets,600000
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Temporary Tents,80000
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Rescue Teams,300
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Ambulances,300
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Trucks,300
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Boats,80
+WH014,Bengaluru Warehouse,Karnataka,12.9716,77.5946,Helicopters,25
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Food Packets,2000000
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Water Bottles,3000000
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Medical Kits,400000
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Blankets,600000
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Temporary Tents,80000
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Rescue Teams,300
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Ambulances,300
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Trucks,300
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Boats,80
+WH015,Chennai Warehouse,Tamil Nadu,13.0827,80.2707,Helicopters,25
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Food Packets,2000000
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Water Bottles,3000000
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Medical Kits,400000
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Blankets,600000
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Temporary Tents,80000
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Rescue Teams,300
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Ambulances,300
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Trucks,300
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Boats,80
+WH016,Port Blair Warehouse,Andaman and Nicobar Islands,11.6234,92.7265,Helicopters,25

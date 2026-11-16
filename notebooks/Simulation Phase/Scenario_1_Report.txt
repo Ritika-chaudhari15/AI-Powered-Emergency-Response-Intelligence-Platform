@@ -1,0 +1,91 @@
+
+================================================================================
+SCENARIO 1
+================================================================================
+
+================================================================================
+FINAL DISASTER RESPONSE REPORT : 18251
+================================================================================
+
+DISASTER DETAILS
+------------------------------------------------------------
+Event ID                 : 18251
+Disaster Type            : Earthquake
+Predicted Severity       : High
+Affected Population      : 182,813 (1.83 Lakh)
+
+LOCATION
+------------------------------------------------------------
+Latitude                 : 23.4190
+Longitude                : 70.2320
+
+WAREHOUSE
+------------------------------------------------------------
+Assigned Warehouse       : Ahmedabad Warehouse
+Warehouse State          : Gujarat
+Distance                 : 243.09 km
+
+RESOURCE ALLOCATION
+------------------------------------------------------------
+
+Food Packets
+Required   : 1,645,317 (16.45 Lakh)
+Allocated  : 1,645,317 (16.45 Lakh)
+Shortage   : 0
+
+Medical Kits
+Required   : 13,986 (13.99 Thousand)
+Allocated  : 13,986 (13.99 Thousand)
+Shortage   : 0
+
+Water Bottles
+Required   : 2,742,195 (27.42 Lakh)
+Allocated  : 2,742,195 (27.42 Lakh)
+Shortage   : 0
+
+Blankets
+Required   : 182,813 (1.83 Lakh)
+Allocated  : 182,813 (1.83 Lakh)
+Shortage   : 0
+
+Temporary Tents
+Required   : 36,563 (36.56 Thousand)
+Allocated  : 36,563 (36.56 Thousand)
+Shortage   : 0
+
+SHELTER
+------------------------------------------------------------
+People Needing Shelter   : 182,813 (1.83 Lakh)
+People Sheltered         : 182,813 (1.83 Lakh)
+People Waiting           : 0
+Shelters Used            : 22
+Status                   : Fully Allocated
+
+TRANSPORT
+------------------------------------------------------------
+Supply Trucks Required   : 2926
+Ambulances Required      : 2286
+Rescue Teams Required    : 732
+Rescue Buses Required    : 0
+Helicopters Required     : 23
+Boats Required           : 0
+
+WAREHOUSE AFTER RESPONSE
+------------------------------------------------------------
+Food Packets             354,683 (3.55 Lakh)
+Water Bottles            257,805 (2.58 Lakh)
+Medical Kits             386,014 (3.86 Lakh)
+Blankets                 417,187 (4.17 Lakh)
+Temporary Tents          43,437 (43.44 Thousand)
+Rescue Teams             0
+Ambulances               0
+Trucks                   0
+Boats                    80
+Helicopters              2
+
+MISSION SUMMARY
+------------------------------------------------------------
+Inventory Status         : Complete
+Shelter Status           : Fully Allocated
+
+MISSION SUCCESSFUL

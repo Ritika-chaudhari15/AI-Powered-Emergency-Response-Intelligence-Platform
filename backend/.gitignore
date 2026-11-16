@@ -1,0 +1,13 @@
+.env
+test_user_api.db
+.pytest_cache/
+__pycache__/
+models/
+**/__pycache__/
+
+# ============================================================
+# Virtual Environment
+# ============================================================
+.venv/
+venv/
+env/
